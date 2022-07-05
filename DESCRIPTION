@@ -1,0 +1,17 @@
+Package: biodata
+Title: For biological research
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "First",
+           family = "Last",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package is created by BIBEK BUDHATHOKI with the intend to help biological researchers(specially who conducts field experiment/lab experiment/trials). This package aims to help in analysis in easiest way possible till date.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: 
+    doebioresearch
